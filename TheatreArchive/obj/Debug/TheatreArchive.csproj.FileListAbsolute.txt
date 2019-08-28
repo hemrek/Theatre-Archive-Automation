@@ -1,0 +1,9 @@
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\bin\Debug\TheatreArchive.exe.config
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\bin\Debug\TheatreArchive.exe
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\bin\Debug\TheatreArchive.pdb
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.csprojResolveAssemblyReference.cache
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.Form1.resources
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.Properties.Resources.resources
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.csproj.GenerateResource.Cache
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.exe
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.pdb

@@ -1,0 +1,36 @@
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\bin\Debug\TheatreArchive.exe.config
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\bin\Debug\TheatreArchive.exe
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\bin\Debug\TheatreArchive.pdb
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheaterArchive.csprojResolveAssemblyReference.cache
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.Form1.resources
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.Properties.Resources.resources
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheaterArchive.csproj.GenerateResource.Cache
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.exe
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.pdb
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.admingir.resources
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.adminekle.resources
+C:\Users\HEKO\Desktop\C#\Tiyatro arşiv otomasyonu\TheatreArchive\TheatreArchive\obj\Debug\TheatreArchive.Form2.resources
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\bin\Debug\TheatreArchive.exe.config
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\obj\Debug\TheatreArchive.exe
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\obj\Debug\TheatreArchive.pdb
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\bin\Debug\TheatreArchive.exe
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\obj\Debug\TheaterArchive.csprojResolveAssemblyReference.cache
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\obj\Debug\TheatreArchive.adminekle.resources
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\obj\Debug\TheatreArchive.admingir.resources
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\obj\Debug\TheatreArchive.Form1.resources
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\obj\Debug\TheatreArchive.Form2.resources
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\obj\Debug\TheatreArchive.Properties.Resources.resources
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\obj\Debug\TheaterArchive.csproj.GenerateResource.Cache
+C:\Users\HEKO\Desktop\Piyes Arşivi\TheatreArchive\bin\Debug\TheatreArchive.pdb
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\bin\Debug\TheatreArchive.exe.config
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\obj\Debug\TheatreArchive.exe
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\obj\Debug\TheatreArchive.pdb
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\bin\Debug\TheatreArchive.exe
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\bin\Debug\TheatreArchive.pdb
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\obj\Debug\TheaterArchive.csprojResolveAssemblyReference.cache
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\obj\Debug\TheatreArchive.adminekle.resources
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\obj\Debug\TheatreArchive.admingir.resources
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\obj\Debug\TheatreArchive.Form1.resources
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\obj\Debug\TheatreArchive.Form2.resources
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\obj\Debug\TheatreArchive.Properties.Resources.resources
+C:\Users\HEK\Desktop\HüseyinEmre_Kantaş_16541525\Piyes Arşivi Visual Studio Çalışma\TheatreArchive\obj\Debug\TheaterArchive.csproj.GenerateResource.Cache
